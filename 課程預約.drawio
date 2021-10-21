@@ -1,1 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T02:26:22.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" version="15.5.6" etag="YVi_4BZr1xhhUI34msTL" type="github"><diagram id="QVs43y1Sz6sYipbBfKue">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T05:13:12.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="M3kH5SaKVeoxMX7cezN8" version="15.5.6" type="github">
+  <diagram id="QVs43y1Sz6sYipbBfKue" name="第1頁">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-1" target="-ri3SPqbiJr1r50t-2qO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-1" value="學生端: 課程預約&lt;br&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;stdselct_admin.php&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-2" target="-ri3SPqbiJr1r50t-2qO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-2" value="抓課程預約的項目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-4" target="-ri3SPqbiJr1r50t-2qO-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-4" target="-ri3SPqbiJr1r50t-2qO-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-4" target="-ri3SPqbiJr1r50t-2qO-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-4" target="-ri3SPqbiJr1r50t-2qO-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-4" target="-ri3SPqbiJr1r50t-2qO-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-4" value="依照使用者所選的課程的去把該課程的語言別及上課時段抓出來" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-7" target="-ri3SPqbiJr1r50t-2qO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-7" target="-ri3SPqbiJr1r50t-2qO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-7" value="判斷使用者點數是否夠或點數期限由無過期會沒繳費" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-8" value="甚麼都不能選" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-10" value="不夠" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-12" value="夠" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="140" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-31" target="-ri3SPqbiJr1r50t-2qO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-31" target="-ri3SPqbiJr1r50t-2qO-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="780" />
+              <mxPoint x="160" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-31" value="確定使用者是否真的要選" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="478.75" y="735" width="107.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-39" target="-ri3SPqbiJr1r50t-2qO-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="533" y="940" />
+              <mxPoint x="653" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-39" value="扣點數，假如沒有這位老師的師生留言板就開起來" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-41" value="確定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="478.75" y="825" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-43" target="-ri3SPqbiJr1r50t-2qO-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532.5" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-43" target="-ri3SPqbiJr1r50t-2qO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-43" value="是否第一次預約" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-47" value="寄信給老師，通知使用者預約成功" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-48" value="不是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="1070" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-51" target="-ri3SPqbiJr1r50t-2qO-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="822.5" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-51" value="寄信給管理員" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="762.5" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-56" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="980" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-79" value="&lt;span&gt;1對1(30分鐘)&lt;/span&gt;&lt;br&gt;&lt;span&gt;選項:&lt;/span&gt;&lt;br&gt;&lt;span&gt;語言別,&lt;/span&gt;&lt;br&gt;&lt;span&gt;老師(用輸入的不是用選的),&lt;/span&gt;&lt;br&gt;&lt;span&gt;時段(幾點~幾點)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="410" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-80" value="&lt;span&gt;1對1(60分鐘)&lt;/span&gt;&lt;br&gt;&lt;span&gt;選項:&lt;/span&gt;&lt;br&gt;&lt;span&gt;語言別&lt;/span&gt;&lt;br&gt;&lt;span&gt;老師(用輸入的不是用選的)&lt;/span&gt;&lt;br&gt;&lt;span&gt;時段&lt;/span&gt;(幾點~幾點)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="410" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-82" target="-ri3SPqbiJr1r50t-2qO-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-82" value="每週團課&lt;br&gt;&lt;span&gt;選項:&lt;/span&gt;&lt;br&gt;&lt;span&gt;語言別,&lt;/span&gt;&lt;br&gt;&lt;span&gt;時段(幾點幾分-幾點幾分)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="410" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-84" value="每月團課&lt;br&gt;&lt;span&gt;選項:&lt;/span&gt;&lt;br&gt;&lt;span&gt;語言別&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="410" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-86" value="免費口說&lt;br&gt;&lt;span&gt;選項:&lt;/span&gt;&lt;br&gt;日期(年/月/日(星期))" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="410" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-93" value="按下搜索出現所選的相關課程及時段" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="-ri3SPqbiJr1r50t-2qO-104" target="-ri3SPqbiJr1r50t-2qO-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-104" value="確定好想選的課程及時段" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ri3SPqbiJr1r50t-2qO-110" value="沒有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="760" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
